@@ -1,3 +1,7 @@
+# next-block-listener
+Single page app that connects to Blockchain Networks and listens for the next block
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
